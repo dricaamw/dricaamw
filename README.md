@@ -1,9 +1,9 @@
 ## Olá👋, Eu sou a Adriana Mota!
 
-Seja bem-vindo (a) ao meu Git Hub!
+Seja bem-vindo (a) ao meu Git Hub! ✨ 
 
 - 🌱 Cursando Full Stack na Digital College
-- Estudando React e Node.js
+- 💻 Estudando React e Node.js
 
 ##
 
