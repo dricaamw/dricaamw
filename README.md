@@ -3,7 +3,7 @@
 Seja bem-vindo (a) ao meu Git Hub!
 
 - Cursando Full Stack na Digital College
-- Estudando Node JS
+- Estudando React e Node.js
 
 ##
 
